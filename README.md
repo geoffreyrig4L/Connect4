@@ -1,1 +1,1 @@
-# goal_goty
+# Connect4
